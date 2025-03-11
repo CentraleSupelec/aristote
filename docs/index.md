@@ -82,7 +82,7 @@ Aristote-Dispatcher exposant une API compatible avec celle d'OpenAI, il peut êt
 
 - Aristote est désormais intégré dans la version 3.7 d'ESUP-Pod
 - France Université Numérique a commencé l'implémentation d'Aristote dans Marsha
-- Ubicast, éditeur de la plateforme de VoD Nudgis, proposera une version compatible avec Aristote d'ici la fin de l'année
+- Ubicast, éditeur de la plateforme de VoD Nudgis, propose désormais une version compatible avec Aristote
 
 Profitant de la disponibilité d'une API compatible OpenAI, certains éditeurs proposent d'utiliser Aristote-Dispatcher en remplacement d'accès OpenAI. Cette option est donc désormais disponible dans les outils des éditeurs Nolej.io et Ideta. 
 
